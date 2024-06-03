@@ -12,13 +12,13 @@ Hello! I'm Vinamra Vaswani, a passionate software developer and computer science
 
 ## Projects
 
-### [E-Ticket Booking WebApp](https://github.com/yourusername/e-ticket-booking-webapp)
+### [E-Ticket Booking WebApp]([https://github.com/yourusername/e-ticket-booking-webapp](https://github.com/Vaswani2003/RTC-E-Ticket-Booking-WebApp))
 A web application for RTC e-ticket booking built using ReactJS and Material UI for the frontend and NodeJS with ExpressJS for the backend. The app also generates QR tickets for each booking.
 
-### [ATM Project](https://github.com/yourusername/atm-project)
+### [ATM Project](https://github.com/Vaswani2003/ATM-Project-using-Java)
 A Java-based ATM simulation project. This project simulates an ATM environment and provides various banking services like withdrawals, balance checks, transaction history, deposits, and PIN changes.
 
-### [LeetCode Solutions](https://github.com/yourusername/leetcode-solutions)
+### [LeetCode Solutions](https://github.com/Vaswani2003/Leetcode-Solutions))
 A repository of solutions to various LeetCode problems. Most solutions are written in C++, with some in Python. This is a great resource for anyone looking to improve their problem-solving skills.
 
 ## Get In Touch
