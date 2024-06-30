@@ -5,7 +5,7 @@
 Hello! I'm Vinamra Vaswani, a passionate software developer and computer science enthusiast. Here you'll find a variety of projects showcasing my skills in different programming languages and technologies.
 
 ## About Me
-
+React MySQL MongoDB Express.js NodeJS Github Pages Visual Studio Code CSS3 HTML5 Java JavaScript Python Linux
 - **Education**: Computer Science Engineering (CSEN) Student
 - **Skills**: Java, C++, Python, JavaScript, ReactJS, NodeJS, ExpressJS, Material UI, Machine Learning
 - **Interests**: Software Development, Web Development, Algorithms, Data Structures, Problem Solving
