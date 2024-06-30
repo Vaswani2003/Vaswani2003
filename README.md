@@ -6,6 +6,32 @@ Hello! I'm Vinamra Vaswani, a passionate software developer and computer science
 
 ## About Me
 
+```python
+
+class AboutMe:
+    def __init__(self):
+        self.name = "Vinamra Vaswani"
+        self.role = "Undergraduate Student"
+        self.graduation_year = 2025
+
+        self.skills = {
+            "Programming Languages": ["Python", "Java", "C++", "JavaScript"],
+            "Web Development": ["HTML", "CSS", "React", "Node.js", "Express.js"],
+            "Databases": ["MongoDB", "MySQL", "SQLite"],
+            "Tools": ["Git", "GitHub", "VS Code", "Selenium", "Jupyter Notebook"],
+            "Operating Systems": ["Windows", "Linux"],
+            "Others": ["Data Structures", "Algorithms", "Machine Learning", "Deep Learning"]
+        }
+
+    def greetings(self, YourName):
+        print(f"Hello, {YourName}! I'm {self.name}, have a great day ahead!")
+
+
+if __name__ == "__main__":
+    me = AboutMe()
+    me.greetings("Enter Your Name Here!!!!")
+
+```
 
 ## Projects
 
