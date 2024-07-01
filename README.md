@@ -29,7 +29,7 @@ class AboutMe:
 
 if __name__ == "__main__":
     me = AboutMe()
-    me.greetings("Enter Your Name Here!!!!")
+    me.greetings(input("Enter Your Name Here!!!!"))
 
 ```
 
