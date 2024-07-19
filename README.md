@@ -33,6 +33,9 @@ if __name__ == "__main__":
 
 ```
 
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=Vaswani2003&count_private=true&theme=tokyonight" alt="Vinamra's GitHub stats"/>
+    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaswani2003&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
 ## Projects
 
 ### [E-Ticket Booking WebApp](https://github.com/Vaswani2003/RTC-E-Ticket-Booking-WebApp)
