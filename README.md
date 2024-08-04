@@ -50,7 +50,7 @@ A repository of solutions to various LeetCode problems. Most solutions are writt
 ## Get In Touch
 
 - **Email**: vinamravaswani@gmail.com
-- **LinkedIn**: [Vinamra Vaswani](https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/vaswani2003/))
+- **LinkedIn**: [Vinamra Vaswani](https://linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/vaswani2003/)
 
 ## Contributions
 
